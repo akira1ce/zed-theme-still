@@ -1,0 +1,8 @@
+id = "still-theme"
+name = "Still"
+version = "0.1.0"
+schema_version = 1
+authors = ["akira1ce"]
+description = "A cohesive dark and light theme with JetBrains-inspired syntax colors."
+repository = "https://github.com/akira1ce/zed-theme-carbon"
+themes = ["themes/still.json"]

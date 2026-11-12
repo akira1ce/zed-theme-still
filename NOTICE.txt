@@ -1,0 +1,12 @@
+Still
+
+Based on JetBrains Themes for Zed by Artem Evsevev.
+Copyright 2025 Artem Evsevev.
+Licensed under the Apache License, Version 2.0; see LICENSE.txt.
+Source: https://github.com/artemevsevev/zed-theme-jetbrains
+
+Modified by akira1ce on 2026-11-12.
+Still Dark retains the customized opaque near-black UI palette.
+Still Light adds a unified soft-white UI palette with coordinated states.
+Both variants retain their original JetBrains syntax highlighting and
+terminal ANSI palettes. UI backgrounds, selection colors and metadata differ.
